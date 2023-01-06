@@ -11,28 +11,35 @@
     <h2> How do we foster global and local online community engagement through multicultural multimedia engagement? </h2>
     <h3> These questions are answered in the following study:</h3> 
         <h4> Methods: </h4> 
-            <p> Qualitative focus group interviews, observations and ethnographic field notes featuring a Nicaraguan youth in a   
-                 intercultural leadership school.</p>
-            <p> Critical Discourse Framework for indepth conversation interpretation in Miskitu, Spanish and English.</p>
-            <p> Triangulation of observations, ethnographic field notes and focus interview data. </p> 
-        <h4> Analysis: </h4> 
-            <p> Multilingual Multicultural youth can serve as ambassadors of their communities on social media platforms if community 
-                 stakeholders such as non-profit organizations supply the hardware and software for semi-professional multimedia design projects.</p> 
-            <p> Youth's Multimedia projects can serve as catalysts for social change if they address local policy makers through the cultural and 
-                  linguistic lenses of the community. </p>
+        <ul>
+            <li> Qualitative focus group interviews, observations and ethnographic field notes featuring a Nicaraguan youth in a   
+                 intercultural leadership school.</li>
+            <li> Critical Discourse Framework for indepth conversation interpretation in Miskitu, Spanish and English.</li>
+            <li> Triangulation of observations, ethnographic field notes and focus interview data. </li>
+    </ul>
+        <h4> Analysis: </h4>
+        <ul>
+            <li> Multilingual Multicultural youth can serve as ambassadors of their communities on social media platforms if community 
+                 stakeholders such as non-profit organizations supply the hardware and software for semi-professional multimedia design projects.</li> 
+            <li> Youth's Multimedia projects can serve as catalysts for social change if they address local policy makers through the cultural and 
+                  linguistic lenses of the community. </li>
+    </ul>
         <h4> Implications: </h4>
-            <p> Designed the first multimedia design course for multilingual multicultural youth in Puerto Cabezas Nicaragua in 2016.</p> 
-            <p> Aided youth in building a global and local online community of 1000+ followers.</p>
-            <p> Blended anti-racist and social justice-based pedagogies to create a safe place for youth to showcase their lived experience with   
-                 domestic violence, discrimination, bullying and STI awareness and prevention. </p> 
-            <p> Collaborated with NGOs in Language and Culture Reclamation for the Miskitu and Mayangna Indigenous communities.</p>         
-            <p> Supported and facilitated a high school to university to professional pipeline for youth interested in television-based multimedia                          design. </p>
+        <ul>
+            <li> Designed the first multimedia design course for multilingual multicultural youth in Puerto Cabezas Nicaragua in 2016.</li> 
+            <li> Aided youth in building a global and local online community of 1000+ followers.</li>
+            <li> Blended anti-racist and social justice-based pedagogies to create a safe place for youth to showcase their lived experience with   
+                 domestic violence, discrimination, bullying and STI awareness and prevention. </li> 
+            <li> Collaborated with NGOs in Language and Culture Reclamation for the Miskitu and Mayangna Indigenous communities.</li>         
+            <li> Supported and facilitated a high school to university to professional pipeline for youth interested in television-based multimedia                          design. </li>
+     </ul>
         <h4> Long-term impact of the study: </h4>
-            <p> Created a model for future leaders in the community to advocate for youth voice on topics of social 
-                 justice and community transformation using the region’s cultural lenses and languages.</p>
-            <p> Laid a strong foundation for future educators to build multilingual STEAM coursework for youth navigating cultural, racial,    
-                 linguistic, and digital divides. </p>
-            </p>
+        <ul>
+            <li> Created a model for future leaders in the community to advocate for youth voice on topics of social 
+                 justice and community transformation using the region’s cultural lenses and languages.</li>
+            <li> Laid a strong foundation for future educators to build multilingual STEAM coursework for youth navigating cultural, racial,    
+                 linguistic, and digital divides. </li>
+     </ul>
             
 [Dissertation Study Link](https://www.proquest.com/openview/d3c23b69bd4db46b69bbd9cb3df090cc/1?pq-origsite=gscholar&cbl=51922&diss=y)
 
