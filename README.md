@@ -9,7 +9,7 @@
 <body>
     <h1> How do we support youth in Latin America with digital access? </h1>
     <h2> How do we foster community engagement through multimedia design? </h2>
-    <h3> These questions are answered in the following study:
+    <h3> These questions are answered in the following study:</h3>
         <ul> 
             <li> Methods: Qualitative focus group interviews, observations and ethnographic field notes featuring a Nicaraguan youth in a   
                  intercultural leadership school. 
