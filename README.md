@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  ![Multiple Voices A Study of Pluriliterate North Atlantic Coast Nicaraguan Youth’s Multimedia Design Practices in Classroom and Online Community Contexts](https://user-images.githubusercontent.com/94628744/210921417-883e4ced-dff1-420f-b6f4-7bebb48997fc.gif)
+<img width="1000" alt="Coconuts in Nicaragua" src="https://user-images.githubusercontent.com/94628744/210924152-06407c28-788c-4977-a285-a6d9093ab665.gif">
 </head>
 <body>
     <h1> How do we support youth in Latin America with digital access? How do we foster community engagement through multimedia design? </h1>
@@ -23,6 +23,5 @@
             
 [Dissertation Study Link](https://www.proquest.com/openview/d3c23b69bd4db46b69bbd9cb3df090cc/1?pq-origsite=gscholar&cbl=51922&diss=y)
 
- </>
 </body>
 </html>
