@@ -7,8 +7,8 @@
 <img width="1000" alt="Coconuts in Nicaragua" src="https://user-images.githubusercontent.com/94628744/210924152-06407c28-788c-4977-a285-a6d9093ab665.gif">
 </head>
 <body>
-    <h1> How do we support youth in Latin America with digital access? </h1>
-    <h2> How do we foster community engagement through multimedia design? </h2>
+    <h1> How do we support youth empowerment and leadership in Latin America though access to multimedia design? </h1>
+    <h2> How do we foster global and local online community engagement through multicultural multimedia engagement? </h2>
     <h3> These questions are answered in the following study:</h3>
         <ul> 
             <li> Methods: Qualitative focus group interviews, observations and ethnographic field notes featuring a Nicaraguan youth in a   
