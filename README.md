@@ -8,23 +8,24 @@
 </head>
 <body>
     <h1> How do we support youth empowerment and leadership in Latin America though access to multimedia design? </h1>
-    <h2> How do we foster global and local online community engagement through multicultural multimedia engagement? </h2>
+    <h2> How do we foster global and local online community engagement through multicultural youth multimedia design? </h2>
     <h3> These questions are answered in the following study:</h3> 
-        <h4> Methods: </h4> 
+        <h4> Methods and Methodologies: </h4> 
         <ul>
-            <li> Qualitative focus group interviews, observations and ethnographic field notes featuring a Nicaraguan youth in a   
+            <li> Qualitative focus group interviews, observations and ethnographic field notes featuring Nicaraguan youth in a   
                  intercultural leadership school.</li>
             <li> Critical Discourse Framework for indepth conversation interpretation in Miskitu, Spanish and English.</li>
             <li> Triangulation of observations, ethnographic field notes and focus interview data. </li>
     </ul>
         <h4> Analysis: </h4>
         <ul>
-            <li> Multilingual Multicultural youth can serve as ambassadors of their communities on social media platforms if community 
-                 stakeholders such as non-profit organizations supply the hardware and software for semi-professional multimedia design projects.</li> 
-            <li> Youth's Multimedia projects can serve as catalysts for social change if they address local policy makers through the cultural and 
-                  linguistic lenses of the community. </li>
+            <li> If community stakeholders such as non-profit organizations supply the hardware and software for semi-professional multimedia design 
+                projects, multilingual multicultural youth can serve as ambassadors and activists that advocate for their communities on social media    
+                platforms.</li> 
+            <li> Youth's multimedia projects can serve as catalysts for social change if they address local policy makers through the cultural and 
+                 linguistic lenses of the community. </li>
     </ul>
-        <h4> Implications: </h4>
+        <h4> Implications and Main Take-Aways: </h4>
         <ul>
             <li> Designed the first multimedia design course for multilingual multicultural youth in Puerto Cabezas Nicaragua in 2016.</li> 
             <li> Aided youth in building a global and local online community of 1000+ followers.</li>
@@ -40,7 +41,8 @@
             <li> Laid a strong foundation for future educators to build multilingual STEAM coursework for youth navigating cultural, racial,    
                  linguistic, and digital divides. </li>
      </ul>
-            
+       <h4> Interested in reading more? <h4> 
+           <p> &nbsp; </p>
 [Dissertation Study Link](https://www.proquest.com/openview/d3c23b69bd4db46b69bbd9cb3df090cc/1?pq-origsite=gscholar&cbl=51922&diss=y)
 
 </body>
