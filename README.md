@@ -12,7 +12,7 @@
     <h3> These questions are answered in the following study:</h3> 
         <h4> Methods and Methodologies: </h4> 
         <ul>
-            <li> Qualitative focus group interviews, observations and ethnographic field notes featuring Nicaraguan youth in a   
+            <li> Qualitative focus group interviews, observations and ethnographic field notes featuring Nicaraguan youth in an   
                  intercultural leadership school.</li>
             <li> Critical Discourse Framework for indepth conversation interpretation in Miskitu, Spanish and English.</li>
             <li> Triangulation of observations, ethnographic field notes and focus interview data. </li>
