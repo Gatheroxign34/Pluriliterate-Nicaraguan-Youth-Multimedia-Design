@@ -24,6 +24,8 @@
                 platforms.</li> 
             <li> Youth's multimedia projects can serve as catalysts for social change if they address local policy makers through the cultural and 
                  linguistic lenses of the community. </li>
+            <li> Youth's social media-based multilingual conversations create new avenues for global, national and local perceptions of place-based 
+                 language identities, territorial expression, and cultural sovereignty.</li>   
     </ul>
         <h4> Implications and Main Take-Aways: </h4>
         <ul>
